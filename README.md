@@ -184,59 +184,35 @@ Complete ERP solution for dairy business management with real-time tracking and 
   <img src="https://github-profile-trophy.vercel.app/?username=akshaybellagi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### 💼 Professional Networks
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4285F4?style=for-the-badge)](https://akshaybellagi.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-bellagi1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaybellagi)
-
-### 🌐 Social Media
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkxayBellagi)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akxay_1143/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917676831143)
-
-### 📬 Get In Touch
-[![Email](https://img.shields.io/badge/Email-akxayb1143@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akxayb1143@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_7676831143-00C853?style=for-the-badge&logo=phone&logoColor=white)](tel:+917676831143)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Open for Opportunities
-
-<div align="center">
-
-```diff
-+ 🚀 Open to Full-time Opportunities
-+ 💼 Available for Freelance Projects
-+ 🤝 Open to Collaborations
-+ 📚 Always Learning & Growing
-```
-
-</div>
+## 🤝 Connect With Me
 
 <div align="center">
   
-### 💡 *"Building modern web applications with a focus on user experience"*
+[![Portfolio](https://img.shields.io/badge/Portfolio-akshaybellagi.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshaybellagi.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Bellagi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-bellagi1/)
+[![GitHub](https://img.shields.io/badge/GitHub-akshaybellagi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaybellagi)
+[![Twitter](https://img.shields.io/badge/Twitter-@AkxayBellagi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkxayBellagi)
+[![Instagram](https://img.shields.io/badge/Instagram-@akxay__1143-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akxay_1143/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917676831143)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 ---
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=akshaybellagi&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/akshaybellagi?label=Followers&style=flat-square&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/akshaybellagi?label=Stars&style=flat-square&color=yellow" alt="Stars" />
-</p>
+## 📧 Contact
 
-**⭐️ If you like my work, consider giving a star to my repositories!**
+- 📧 Email: akxayb1143@gmail.com
+- 📱 Phone: +91 7676831143
+- 🌐 Website: [akshaybellagi.netlify.app](https://akshaybellagi.netlify.app)
 
-Made with ❤️ by [Akshay Bellagi](https://akshaybellagi.netlify.app)
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshaybellagi&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  
+  ### 💡 "Building modern web applications with a focus on user experience"
+  
+  ⭐️ From [akshaybellagi](https://github.com/akshaybellagi) | Visit my [portfolio](https://akshaybellagi.netlify.app) for more details
 </div>
