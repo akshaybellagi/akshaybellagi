@@ -91,23 +91,51 @@ I'm a passionate full-stack developer specializing in creating beautiful, respon
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-akshaybellagi.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshaybellagi.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Bellagi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-bellagi1/)
-[![GitHub](https://img.shields.io/badge/GitHub-akshaybellagi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaybellagi)
-[![Twitter](https://img.shields.io/badge/Twitter-@AkxayBellagi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkxayBellagi)
-[![Instagram](https://img.shields.io/badge/Instagram-@akxay__1143-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akxay_1143/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917676831143)
+
+### 🌐 Professional Networks
+
+<p>
+  <a href="https://akshaybellagi.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-bellagi1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/akshaybellagi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+### 💬 Social Media
+
+<p>
+  <a href="https://x.com/AkxayBellagi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/akxay_1143/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/917676831143" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+### 📬 Direct Contact
+
+<p>
+  <a href="mailto:akxayb1143@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akxayb1143@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+917676831143">
+    <img src="https://img.shields.io/badge/Phone-+91_7676831143-00C853?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  </a>
+</p>
+
+<br/>
+
+> 💼 **Open to opportunities** | 🤝 **Available for freelance projects** | 💡 **Let's build something amazing together!**
 
 </div>
-
----
-
-## 📧 Contact
-
-- 📧 Email: akxayb1143@gmail.com
-- 📱 Phone: +91 7676831143
-- 🌐 Website: [akshaybellagi.netlify.app](https://akshaybellagi.netlify.app)
 
 ---
 
