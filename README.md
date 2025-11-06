@@ -50,19 +50,6 @@ I'm a passionate full-stack developer specializing in creating beautiful, respon
 
 ---
 
-## 🎯 Featured Projects
-
-### 🎓 [Paritranaya IAS Academy – E-Learning Platform](https://paritranayaiasacademy.in/)
-**Front-End Developer & QA Tester**
-- Comprehensive e-learning platform for IAS aspirants
-- Features: Video lectures, progress tracking, interactive learning modules
-- **Tech:** React, Next.js, Tailwind CSS, Supabase
-
-### 🥛 [Dairy Management ERP](https://dairy-erp.netlify.app/dashboard)
-**Full Stack Developer**
-- Complete ERP system for dairy management
-- Features: Milk collection tracking, payment processing, inventory control
-- **Tech:** React, Node.js, PostgreSQL, Express
 
 > 📂 **View all my projects and detailed case studies on my [portfolio website](https://akshaybellagi.netlify.app/projects)**
 
