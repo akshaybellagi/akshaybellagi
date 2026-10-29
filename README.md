@@ -57,32 +57,6 @@ I'm a passionate full-stack developer specializing in creating beautiful, respon
 
 ## 📜 Certifications & Achievements
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/IBM-Cloud_Computing-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud Computing"/>
-<br/>
-<sub><b>IBM Cloud Computing</b></sub>
-<br/>
-<sub>IBM • 2024</sub>
-<br/>
-<sub>☁️ Cloud Architecture & Services</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Infosys-MERN_Stack-0066CC?style=for-the-badge&logo=infosys&logoColor=white" alt="MERN Stack"/>
-<br/>
-<sub><b>MERN Stack & Full Stack Development</b></sub>
-<br/>
-<sub>Infosys Springboard • 2024</sub>
-<br/>
-<sub>💻 MongoDB, Express, React, Node.js</sub>
-</td>
-</tr>
-</table>
-
-<br/>
 
 ### 🎯 Skills Validated
 
