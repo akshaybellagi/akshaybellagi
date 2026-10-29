@@ -15,7 +15,7 @@
 
 I'm a passionate full-stack developer specializing in creating beautiful, responsive, and user-friendly web applications. With **3+ years of experience**, I focus on modern web technologies and delivering exceptional digital experiences.
 
-🌐 **Explore my complete portfolio:** [akshaybellagi.netlify.app](https://www.akshaybellagi.online)
+🌐 **Explore my complete portfolio:** [akshaybellagi.app](https://www.akshaybellagi.online)
 
 - 🔭 Currently working on modern web applications using React and Next.js
 - 🌱 Continuously learning and exploring new technologies
