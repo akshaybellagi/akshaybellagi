@@ -53,10 +53,6 @@ I'm a passionate full-stack developer specializing in creating beautiful, respon
 
 > 📂 **View all my projects and detailed case studies on my [portfolio website](https://akshaybellagi.netlify.app/projects)**
 
----
-
-## 📜 Certifications & Achievements
-
 
 ### 🎯 Skills Validated
 
